@@ -1,0 +1,5 @@
+client/cert
+server/fickle_dns_client
+server/fickle_dns
+
+.env.sh
